@@ -1,0 +1,24 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "instagram-3ee9f",
+          "appId": "1:138340937717:android:e6ab30e13a5e35440e3abc",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "instagram-3ee9f",
+          "configurations": {
+            "android": "1:138340937717:android:e6ab30e13a5e35440e3abc"
+          }
+        }
+      }
+    }
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
